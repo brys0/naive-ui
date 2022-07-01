@@ -5,6 +5,7 @@
   "main": "lib/index.js",
   "module": "es/index.js",
   "types": "es/index.d.ts",
+  "type": "module",
   "unpkg": "dist/index.js",
   "jsdelivr": "dist/index.js",
   "scripts": {
